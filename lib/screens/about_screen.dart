@@ -8,7 +8,7 @@ class AboutScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('About')),
       body: const Center(
-        child: Text('Приложение разработано Дмитрием Стояновым'),
+        child: Text('Задание № 2.3'),
       ),
     );
   }
